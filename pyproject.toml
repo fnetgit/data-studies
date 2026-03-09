@@ -9,6 +9,7 @@ dependencies = [
     "ipykernel>=7.2.0",
     "matplotlib>=3.10.8",
     "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
     "streamlit>=1.54.0",
     "watermark>=2.6.0",
 ]
